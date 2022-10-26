@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank App WinForm Task 4", "Bank App WinForm Task 4\Bank App WinForm Task 4.csproj", "{8DCBEFDF-D3A4-460C-98D3-D37E13C4702E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormTest", "WinFormTest\WinFormTest.csproj", "{596A0B12-DC6C-4C70-8C40-25BE6EA996E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCBEFDF-D3A4-460C-98D3-D37E13C4702E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCBEFDF-D3A4-460C-98D3-D37E13C4702E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCBEFDF-D3A4-460C-98D3-D37E13C4702E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCBEFDF-D3A4-460C-98D3-D37E13C4702E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596A0B12-DC6C-4C70-8C40-25BE6EA996E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596A0B12-DC6C-4C70-8C40-25BE6EA996E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596A0B12-DC6C-4C70-8C40-25BE6EA996E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596A0B12-DC6C-4C70-8C40-25BE6EA996E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9FDD91-2E65-4622-8936-CB8FFD46A2AC}
+	EndGlobalSection
+EndGlobal

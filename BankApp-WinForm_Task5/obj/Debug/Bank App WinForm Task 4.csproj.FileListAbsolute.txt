@@ -1,0 +1,22 @@
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\bin\Debug\Bank App WinForm Task 4.exe.config
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\bin\Debug\Bank App WinForm Task 4.exe
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\bin\Debug\Bank App WinForm Task 4.pdb
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank App WinForm Task 4.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank App WinForm Task 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.Properties.Resources.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.RegistrationForm.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank App WinForm Task 4.csproj.GenerateResource.cache
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank App WinForm Task 4.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank App WinForm Task 4.exe
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank App WinForm Task 4.pdb
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.AccountBalanceForm.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.DepositForm.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.LoginForm.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.OptionsForm.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.TransferForm.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.WithdrawalForm.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.StartupPage.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank_App_WinForm_Task_4.StatementOfAccountForm.resources
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Decagon\Desktop\My Decagon Experience\source\repos\Bank App WinForm Task 4\Bank App WinForm Task 4\obj\Debug\Bank App WinForm Task 4.csproj.CopyComplete
